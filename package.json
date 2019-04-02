@@ -1,0 +1,15 @@
+{
+    "name": "olx_filter",
+    "description": "Filter of ads on olx.pl",
+    "version": "0.8.0",
+    "main": "olx.js",
+    "keywords": [],
+    "author": "Piotr Duperas",
+    "homepage": "https://hackercats.pl/olx",
+    "dependencies":{
+        "express": "^4.16.0",
+        "ejs": "^2.6.0",
+        "cheerio":"^0.22.0",
+        "curlrequest":"^1.0.0"
+    }
+  }
